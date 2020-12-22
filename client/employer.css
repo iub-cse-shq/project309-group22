@@ -90,7 +90,7 @@
   .bar2{
     position: absolute;
     width: 1263px;
-    height: 1200px;
+    height: 1500px;
     left: 0px;
     top: 80px;
 
@@ -105,6 +105,10 @@
 
     background: rgba(196, 196, 196, 0.44);
 }
+
+
+
+ /* -----------FORM--------- */
 .t1{
     /* Enter the name of your job post */
 
@@ -152,4 +156,114 @@
 
     color: #84ED53;
 
+}
+.txt2{
+    position: absolute;
+    width: 800px;
+    height: 80px;
+    left: 396px;
+    top: 370px;
+
+    background: rgba(196, 196, 196, 0.37);
+
+}
+.t3{
+    /* Job Description */
+
+
+    position: absolute;
+    width: 728px;
+    height: 32px;
+    left: 420px;
+    top: 470px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #84ED53;
+}
+.txt3{
+    /* Rectangle 5 */
+
+
+    position: absolute;
+    width: 843px;
+    height: 339px;
+    left: 398px;
+    top: 550px;
+
+    background: rgba(230, 228, 228, 0.62);
+}
+.t4{
+    /* What skills needed required for your job? */
+
+
+    position: absolute;
+    width: 728px;
+    height: 32px;
+    left: 420px;
+    top: 900px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #84ED53;
+}
+.txt4{
+    /* Rectangle 6 */
+
+
+    position: absolute;
+    width: 840px;
+    height: 176px;
+    left: 401px;
+    top: 980px;
+
+    background: rgba(230, 228, 228, 0.62);
+}
+.t5{
+    /* Budget for the job */
+
+
+    position: absolute;
+    width: 728px;
+    height: 32px;
+    left: 420px;
+    top: 1170px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #84ED53;
+
+}
+.txt5{
+    /* Rectangle 7 */
+
+
+    position: absolute;
+    width: 353px;
+    height: 65px;
+    left: 405px;
+    top: 1250px;
+
+    background: rgba(230, 228, 228, 0.62);
+}
+.btn1{
+    position: absolute;
+    width: 364px;
+    height: 76px;
+    left: 400px;
+    top: 1380px;
+
+    background: #84ED53;
 }
