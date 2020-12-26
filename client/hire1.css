@@ -1,4 +1,4 @@
-/* -------1nd bar-------*/  
+/* -------1st bar-------*/  
 .Hire-me{
     position: absolute;
     width: 208px;
@@ -112,7 +112,7 @@
 /* -------2nd bar-------*/  
 .bar2{
     position: absolute;
-    width: 1280px;
+    width: 1250px;
     height: 43px;
     left: 0px;
     top: 80px;
@@ -263,7 +263,7 @@
 
 
     position: absolute;
-    width: 1342px;
+    width: 1250px;
     height: 600px;
     left: 0px;
     top: 120px;
