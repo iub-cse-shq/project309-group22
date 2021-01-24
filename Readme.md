@@ -20,6 +20,8 @@ Also the input fields have data validation, the figure below shows the notificat
 
 <img width="960" alt="5" src="https://user-images.githubusercontent.com/73806902/105639455-9c9a4180-5ea2-11eb-904d-335f76cdb60c.PNG">
 
+The figure below shows the notification pops up when an user use same Email address to open an new account.
+
 <img width="960" alt="6" src="https://user-images.githubusercontent.com/73806902/105639490-dbc89280-5ea2-11eb-8b96-f50d0c14198a.PNG">
 
 
