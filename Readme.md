@@ -1,1 +1,6 @@
-Project details and documentation goes here
+                                                              ONLINE MARKETPLACE FOR FREELANCERS IN BANGLADESH
+                         
+Freelance Business has become famous among begineers as people are more inclined towards earning money through sitting at home. Not only smaller but larger business sectors have now started appointing freelancers in order to cut the training and hiring costs. Freelance jobs from home not only helps to grow in many fields professionally but also can work in smooth and flexible time frame. Freelancing websites gives a plus point to work with many companies at a time. 
+
+Hire-Me is an web application of online marketplace for freelancers in Bangladesh. The project is developed using Node js , MongoDB, Express, and also the website is responsive. In this application there will be two type of users one is Employer and another is Employee. Each user will have its interface and will have different activity.
+The below fishure shows Home page of Hire-Me application where users can Log-In and Register.
