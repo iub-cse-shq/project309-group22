@@ -28,9 +28,23 @@ After done registration to Hire-Me application it will take direct to the login 
 
 <img width="960" alt="7" src="https://user-images.githubusercontent.com/73806902/105639673-d61f7c80-5ea3-11eb-9112-8486fe1ebf03.PNG">
 
-The figure below shows the Employee dashboard where Employee can search job and can apply Jobs.
+The figure below shows the freelancer dashboard where freelancer can search job and can apply Jobs.
 
 <img width="960" alt="8" src="https://user-images.githubusercontent.com/73806902/105639869-bb013c80-5ea4-11eb-976e-66b59682d4dc.PNG">
+
+The figure below shows when any freelancer search for jobs, it will show the jobs availabe right now.
+
+<img width="960" alt="9" src="https://user-images.githubusercontent.com/73806902/105640006-bdb06180-5ea5-11eb-9621-a9c1d555bc45.PNG">
+
+The figure below shows the Employeer dashboard where Employeer can post a job and can see the Jobs that is posted by him/her.
+
+<img width="960" alt="10" src="https://user-images.githubusercontent.com/73806902/105640145-96a65f80-5ea6-11eb-956f-f5ab011ec29d.PNG">
+
+The figure below shows when any Employer will post a job, he/she have to fill up a form which includes  Job Post Name, Job Description , Deadline , Vacancy.
+
+<img width="960" alt="11" src="https://user-images.githubusercontent.com/73806902/105640231-1fbd9680-5ea7-11eb-835d-db20343c3623.PNG">
+
+
 
 
 
