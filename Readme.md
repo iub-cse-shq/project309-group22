@@ -1,4 +1,4 @@
-                                                              ONLINE MARKETPLACE FOR FREELANCERS IN BANGLADESH
+                                                  ONLINE MARKETPLACE FOR FREELANCERS IN BANGLADESH
                          
 Freelance Business has become famous among begineers as people are more inclined towards earning money through sitting at home. Not only smaller but larger business sectors have now started appointing freelancers in order to cut the training and hiring costs. Freelance jobs from home not only helps to grow in many fields professionally but also can work in smooth and flexible time frame. Freelancing websites gives a plus point to work with many companies at a time. 
 
