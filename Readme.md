@@ -6,7 +6,7 @@ Hire-Me is an web application of online marketplace for freelancers in Banglades
 
 The below figure shows the Home page of Hire-Me application where users can Log-In and Register : - 
 
-<img width="960" alt="4" src="https://user-images.githubusercontent.com/73806902/105639375-2990cb00-5ea2-11eb-9bae-5245a960048f.PNG">
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/73806902/105639399-5ba22d00-5ea2-11eb-978d-69251f8f242c.PNG">
 
 If any new user want to open an account to Hire-Me Web Application he/she has to give information to the system for registration. The new user can register as a Employer or a as a Employee. 
 
