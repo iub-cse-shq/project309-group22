@@ -18,3 +18,6 @@ Also the input fields have data validation, the figure below shows the notificat
 
 <img width="960" alt="3" src="https://user-images.githubusercontent.com/73806902/105639333-eb93a700-5ea1-11eb-829e-10a6c6e494d4.PNG">
 
+<img width="960" alt="5" src="https://user-images.githubusercontent.com/73806902/105639455-9c9a4180-5ea2-11eb-904d-335f76cdb60c.PNG">
+
+
