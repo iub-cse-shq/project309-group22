@@ -44,6 +44,15 @@ The figure below shows when any Employer will post a job, he/she have to fill up
 
 <img width="960" alt="11" src="https://user-images.githubusercontent.com/73806902/105640231-1fbd9680-5ea7-11eb-835d-db20343c3623.PNG">
 
+When any Employer will post a Job, the Employer will see the job post by clicking to MY JOBS button. After clicking the button it will show the entire Job Description. Also the Employer can EDIT, And DELETE Job Post.
+
+<img width="960" alt="12" src="https://user-images.githubusercontent.com/73806902/105640420-30bad780-5ea8-11eb-9f2c-a75b5f2971f2.PNG">
+
+When Any Employer will DELETE the Job Post it will no longer can be seen. The below figure shows the view : - 
+
+<img width="960" alt="13" src="https://user-images.githubusercontent.com/73806902/105640541-da9a6400-5ea8-11eb-9bc3-2784c77c4fe5.PNG">
+
+
 
 
 
