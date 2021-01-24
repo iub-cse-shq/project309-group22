@@ -52,6 +52,8 @@ When Any Employer will DELETE the Job Post it will no longer can be seen. The be
 
 <img width="960" alt="13" src="https://user-images.githubusercontent.com/73806902/105640541-da9a6400-5ea8-11eb-9bc3-2784c77c4fe5.PNG">
 
+So , this is the implementation of Hire-Me Web application still now. Also, some more upgrades will be there in future such as chatbox, video calling between Employer and freelancer.
+
 
 
 
