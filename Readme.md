@@ -16,3 +16,5 @@ The below figure shows the Registration page of Hire-Me application where users 
 
 Also the input fields have data validation, the figure below shows the notification pops up when user put less than six characters in password input fields.
 
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/73806902/105639333-eb93a700-5ea1-11eb-829e-10a6c6e494d4.PNG">
+
