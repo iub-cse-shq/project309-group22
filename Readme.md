@@ -14,3 +14,5 @@ The below figure shows the Registration page of Hire-Me application where users 
 
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/73806902/105638980-f1888880-5e9f-11eb-9d91-9f335e91101b.PNG">
 
+Also the input fields have data validation, the figure below shows the notification pops up when user put less than six characters in password input fields.
+
