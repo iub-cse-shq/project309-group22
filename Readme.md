@@ -24,4 +24,8 @@ The figure below shows the notification pops up when an user use same Email addr
 
 <img width="960" alt="6" src="https://user-images.githubusercontent.com/73806902/105639490-dbc89280-5ea2-11eb-8b96-f50d0c14198a.PNG">
 
+After done registration to Hire-Me application it will take direct to the login page where the system will give confirmation of registration and will user can log in.
+
+<img width="960" alt="7" src="https://user-images.githubusercontent.com/73806902/105639673-d61f7c80-5ea3-11eb-9112-8486fe1ebf03.PNG">
+
 
